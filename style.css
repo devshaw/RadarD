@@ -1,0 +1,145 @@
+body{
+	margin:0;
+	background-color:#fff;
+	overflow:auto;
+}
+
+#btn1{
+	background:#153178;
+	height:200px;
+	width:200px;
+	position:relative;
+	margin-left:10px;
+	left:900px;
+	cursor:pointer;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	line-height:200px;
+	padding-left:10px;
+	text-align:left;
+	
+	
+}
+#btn2{
+	background:#7C91C7;
+	height:200px;
+	width:200px;
+	position:relative;
+	margin-left:10px;
+	left:900px;
+	cursor:pointer;
+	
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	line-height:200px;
+	padding-left:10px;
+	text-align:left;
+}
+
+#btn3{
+	background:#EACF46;
+	border-color:#F60;
+	height:200px;
+	width:200px;
+	position:relative;
+	margin-left:10px;
+	left:900px;
+	cursor:pointer;
+	
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	line-height:200px;
+	padding-left:10px;
+	text-align:left;
+}
+
+#btn4{
+	background:#7C91C7;
+	border-color:#F60;
+	height:200px;
+	width:200px;
+	position:relative;
+	margin-left:10px;
+	margin-top:30px;
+	left:900px;
+	cursor:pointer;
+	
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	line-height:200px;
+	padding-left:10px;
+	text-align:left;
+}
+#btn5{
+	background:#EACF46;
+	border-color:#F60;
+	height:200px;
+	width:200px;
+	position:relative;
+	margin-left:10px;
+	margin-top:30px;
+	left:900px;
+	cursor:pointer;
+	
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	line-height:200px;
+	padding-left:10px;
+	text-align:left;
+}
+
+#btn6{
+	background:#153178;
+	height:200px;
+	width:200px;
+	position:relative;
+	margin-left:10px;
+	margin-top:30px;
+	left:900px;
+	cursor:pointer;
+	
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	line-height:200px;
+	padding-left:10px;
+	text-align:left;
+}
+
+#content{
+	background:#fff;
+	height:480px;
+	width:750px;
+	position:relative;
+	top:500px;
+	z-index:0;
+}
+
+#backbutton{
+	position:relative;
+	left:760px;
+	cursor:pointer;
+}
+
+#caption{
+	position:relative;
+	top:-60px;
+	padding-left: 200px;
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#pagecaption{
+	position:relative;
+	top:-60px;
+	
+	color:#FFF;
+	font-size:25px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}

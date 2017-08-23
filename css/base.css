@@ -1,0 +1,84 @@
+  /* svg circle:nth-child(1) {
+    stroke: none;
+    fill: #e9faff; }
+  svg circle:nth-child(2) {
+    stroke: none;
+    fill: #d6f6ff; }
+  svg circle:nth-child(3) {
+    stroke: none;
+    fill: #ace2f1; }
+  svg circle:nth-child(4) {
+    stroke: none;
+    fill: #9ad8ea; } */
+  svg .blip-group {
+    cursor: pointer; }
+  svg circle.first, svg polygon.first,svg rect.first {
+    fill: #83ad78;
+    stroke: #fff; }
+  svg circle.second, svg polygon.second,svg rect.second {
+    fill: #3db5be;
+    stroke: #fff; }
+  svg circle.third, svg polygon.third ,svg rect.third {
+    fill: #63afe5;
+    stroke: #fff; }
+  svg rect.fourth, svg polygon.fourth,svg circle.fourth {
+    fill: #63afe5;
+    stroke: #fff; }
+  svg line {
+    stroke: rgba(255, 255, 255, 0.3); }
+  svg text.first {
+    fill: #83ad78; }
+  svg text.second {
+    fill: #3db5be; }
+  svg text.third {
+    fill: #63afe5; }
+  svg text.fourth {
+    fill: #63afe5; }
+  svg text.first, svg text.second, svg text.third, svg text.fourth {
+    font-size: 24px;
+    font-weight: bold; }
+  svg text.blip-text {
+    font-size: 9px;
+    fill: #000;
+	white-space: pre-line;
+	cursor: pointer;
+	opacity:0.7;
+}
+ /*  svg text.blip-name {
+    font-size: 12px;
+    font-weight: bold;
+    fill: #000;
+    display: none; 
+} */
+  svg text.line-text {
+   /*  text-transform: uppercase; */
+    /*
+	font-weight: bold;
+	fill: #929292;
+	padding-left:20px;
+	font-size:9px; */
+	fill: #969595;
+	font-size: 14px;
+	font-style: italic;
+    font-family: verdana;
+	opacity: 0.2;
+	}
+
+.radar-ref-table {
+  width: 1080px;
+  font-size: 16px;
+  line-height: 26px;
+  padding: 20px; 
+  display: none;
+  }
+  .radar-ref-table tr:nth-child(odd) {
+    background: #bababa; }
+  .radar-ref-table tr:nth-child(even) {
+    background: #dadada; }
+  .radar-ref-table td {
+    padding: 10px 15px; }
+  .radar-ref-table tr.radar-ref-status-group {
+    font-size: 20px;
+    font-weight: bold;
+    background: #fafafa; }
+
